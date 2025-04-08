@@ -1,0 +1,126 @@
+
+--- Training VQC ---
+VQC Epoch 1/50 - Loss: 0.6923
+VQC Epoch 2/50 - Loss: 0.9416
+VQC Epoch 3/50 - Loss: 0.6836
+VQC Epoch 4/50 - Loss: 0.7569
+VQC Epoch 5/50 - Loss: 0.7349
+VQC Epoch 6/50 - Loss: 0.7010
+VQC Epoch 7/50 - Loss: 0.6908
+VQC Epoch 8/50 - Loss: 0.6964
+VQC Epoch 9/50 - Loss: 0.7052
+VQC Epoch 10/50 - Loss: 0.7084
+VQC Epoch 11/50 - Loss: 0.7065
+VQC Epoch 12/50 - Loss: 0.7025
+VQC Epoch 13/50 - Loss: 0.6984
+Early stopping triggered at epoch 13
+
+--- Training QNN ---
+QNN Epoch 1/50 - Loss: 0.7095
+QNN Epoch 2/50 - Loss: 1.0150
+QNN Epoch 3/50 - Loss: 0.7238
+QNN Epoch 4/50 - Loss: 0.7036
+QNN Epoch 5/50 - Loss: 0.7245
+QNN Epoch 6/50 - Loss: 0.7082
+QNN Epoch 7/50 - Loss: 0.6964
+QNN Epoch 8/50 - Loss: 0.7088
+QNN Epoch 9/50 - Loss: 0.7175
+QNN Epoch 10/50 - Loss: 0.7095
+QNN Epoch 11/50 - Loss: 0.6992
+QNN Epoch 12/50 - Loss: 0.6961
+QNN Epoch 13/50 - Loss: 0.6978
+QNN Epoch 14/50 - Loss: 0.7006
+QNN Epoch 15/50 - Loss: 0.7017
+QNN Epoch 16/50 - Loss: 0.7004
+QNN Epoch 17/50 - Loss: 0.6976
+QNN Epoch 18/50 - Loss: 0.6946
+QNN Epoch 19/50 - Loss: 0.6927
+QNN Epoch 20/50 - Loss: 0.6917
+QNN Epoch 21/50 - Loss: 0.6918
+QNN Epoch 22/50 - Loss: 0.6922
+QNN Epoch 23/50 - Loss: 0.6921
+QNN Epoch 24/50 - Loss: 0.6910
+QNN Epoch 25/50 - Loss: 0.6887
+QNN Epoch 26/50 - Loss: 0.6857
+QNN Epoch 27/50 - Loss: 0.6831
+QNN Epoch 28/50 - Loss: 0.6812
+QNN Epoch 29/50 - Loss: 0.6802
+QNN Epoch 30/50 - Loss: 0.6774
+QNN Epoch 31/50 - Loss: 0.6721
+QNN Epoch 32/50 - Loss: 0.6681
+QNN Epoch 33/50 - Loss: 0.6664
+QNN Epoch 34/50 - Loss: 0.6592
+QNN Epoch 35/50 - Loss: 0.6532
+QNN Epoch 36/50 - Loss: 0.6490
+QNN Epoch 37/50 - Loss: 0.6385
+QNN Epoch 38/50 - Loss: 0.6323
+QNN Epoch 39/50 - Loss: 0.6236
+QNN Epoch 40/50 - Loss: 0.6096
+QNN Epoch 41/50 - Loss: 0.6034
+QNN Epoch 42/50 - Loss: 0.6079
+QNN Epoch 43/50 - Loss: 0.6000
+QNN Epoch 44/50 - Loss: 0.5710
+QNN Epoch 45/50 - Loss: 0.5756
+QNN Epoch 46/50 - Loss: 0.5920
+QNN Epoch 47/50 - Loss: 0.5562
+QNN Epoch 48/50 - Loss: 0.5458
+QNN Epoch 49/50 - Loss: 0.5738
+QNN Epoch 50/50 - Loss: 0.5505
+
+QNN ROC AUC: 0.8170
+
+--- Training EQNN ---
+EQNN Epoch 1/50 - Loss: 0.6956
+EQNN Epoch 2/50 - Loss: 0.7439
+EQNN Epoch 3/50 - Loss: 0.6850
+EQNN Epoch 4/50 - Loss: 0.6888
+EQNN Epoch 5/50 - Loss: 0.6913
+EQNN Epoch 6/50 - Loss: 0.6850
+EQNN Epoch 7/50 - Loss: 0.6771
+EQNN Epoch 8/50 - Loss: 0.6675
+EQNN Epoch 9/50 - Loss: 0.6509
+EQNN Epoch 10/50 - Loss: 0.6230
+EQNN Epoch 11/50 - Loss: 0.5877
+EQNN Epoch 12/50 - Loss: 0.5505
+EQNN Epoch 13/50 - Loss: 0.5149
+EQNN Epoch 14/50 - Loss: 0.5025
+EQNN Epoch 15/50 - Loss: 0.5099
+EQNN Epoch 16/50 - Loss: 0.5031
+EQNN Epoch 17/50 - Loss: 0.5034
+EQNN Epoch 18/50 - Loss: 0.4828
+EQNN Epoch 19/50 - Loss: 0.4634
+EQNN Epoch 20/50 - Loss: 0.4388
+EQNN Epoch 21/50 - Loss: 0.4239
+EQNN Epoch 22/50 - Loss: 0.4096
+EQNN Epoch 23/50 - Loss: 0.4062
+EQNN Epoch 24/50 - Loss: 0.3989
+EQNN Epoch 25/50 - Loss: 0.3971
+EQNN Epoch 26/50 - Loss: 0.3884
+EQNN Epoch 27/50 - Loss: 0.3825
+EQNN Epoch 28/50 - Loss: 0.3728
+EQNN Epoch 29/50 - Loss: 0.3671
+EQNN Epoch 30/50 - Loss: 0.3607
+EQNN Epoch 31/50 - Loss: 0.3574
+EQNN Epoch 32/50 - Loss: 0.3519
+EQNN Epoch 33/50 - Loss: 0.3464
+EQNN Epoch 34/50 - Loss: 0.3379
+EQNN Epoch 35/50 - Loss: 0.3300
+EQNN Epoch 36/50 - Loss: 0.3244
+EQNN Epoch 37/50 - Loss: 0.3232
+EQNN Epoch 38/50 - Loss: 0.3200
+EQNN Epoch 39/50 - Loss: 0.3115
+EQNN Epoch 40/50 - Loss: 0.3091
+EQNN Epoch 41/50 - Loss: 0.3095
+EQNN Epoch 42/50 - Loss: 0.3089
+EQNN Epoch 43/50 - Loss: 0.3053
+EQNN Epoch 44/50 - Loss: 0.3059
+EQNN Epoch 45/50 - Loss: 0.3082
+EQNN Epoch 46/50 - Loss: 0.3043
+EQNN Epoch 47/50 - Loss: 0.3038
+EQNN Epoch 48/50 - Loss: 0.3037
+EQNN Epoch 49/50 - Loss: 0.3003
+EQNN Epoch 50/50 - Loss: 0.2984
+
+EQNN ROC AUC: 0.8991
+
+--- Training SQNN ---
